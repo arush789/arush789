@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**arush789/arush789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arush, a passionate developer constantly exploring new technologies and building cool projects.
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I’m currently working on **Booklytic**, a platform to enhance book reading and management.  
+- 🌱 I’m currently learning **TypeScript, SQL, and more** to level up my development skills.  
+- 💬 Ask me about **JavaScript, TypeScript, Next.js, MongoDB, React, React Native, and Tailwind CSS**.  
+- 👯 I’m looking to collaborate on interesting projects that push boundaries.  
+- ⚡ Fun fact: I love clean and modern UI/UX designs!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me  
+- GitHub: [arush789](https://github.com/arush789)  
+- Email: **arushkewalramani45@gmail.com**
+- Instagram: [arushkewalramani](https://www.instagram.com/arushkewalramani)  
+
+Let's build something amazing together! 🚀  
