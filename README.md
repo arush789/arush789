@@ -3,7 +3,7 @@
 I'm Arush, a passionate developer constantly exploring new technologies and building cool projects.
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Booklytic**, a platform to enhance book reading and management.  
+- 🔭 I’m currently working on **Rozgaar**, a platform to enhance book reading and management.  
 - 🌱 I’m currently learning **TypeScript, SQL, and more** to level up my development skills.  
 - 💬 Ask me about **JavaScript, TypeScript, Next.js, MongoDB, React, React Native, and Tailwind CSS**.  
 - 👯 I’m looking to collaborate on interesting projects that push boundaries.  
