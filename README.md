@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arush789" alt="arush789" /></a> </p>
 
-- 🔭 I’m currently working on [RozGaar](https://github.com/arush789/RozGaar)
+- 🔭 I’m currently working on [Pranalz-gym](https://github.com/arush789/Pranalz-Gym)
 
 - 🌱 I’m currently learning **Machine Learning**
 
