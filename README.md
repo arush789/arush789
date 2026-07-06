@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arush Kewalramanai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arush789" alt="arush789" /></a> </p>
-
 - 🔭 I’m currently working on [HHT_app](https://github.com/arush789/HHT_app)
 
 - 🌱 I’m currently learning **Machine Learning**
