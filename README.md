@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arush Kewalramanai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [HHT_app](https://github.com/arush789/budgeting-app)
+- 🔭 I’m currently working on [CoinTrack](https://github.com/arush789/budgeting-app)
 
 - 🌱 I’m currently learning **Machine Learning**
 
